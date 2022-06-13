@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+{% comment %} 
+Vitae also available to download [here](../files/jcv.pdf).
+{% endcomment %} 
+
+<object data="../files/jcv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="../files/Raul_Garcia_CV.pdf">
+        <p>This browser does not support PDFs. Please <a href="../files/jcv.pdf">download the PDF</a> to view.</p>
+    </embed>
+</object>
+
+{% comment %}
+<iframe src="https://drive.google.com/file/d/1haaQPgAMkOqouNhVPiB8EHmol-okyQOy/preview" width="100%" height = "800"></iframe>
+{% endcomment %}
+
+<!-- {% include base_path %}
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -56,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
