@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at Rice University, in the department of Computational Applied Mathematics & Operations Research. I have broad interests in mixed-integer programming, stochastic optimization, optimization algorithms and software, operations research, and deep learning. Before Rice, I obtained my BS in Applied Mathematics from the University of California, Davis.
+I am a third-year PhD student at Rice University, in the department of Computational Applied Mathematics & Operations Research. I have broad interests in mixed-integer programming, stochastic optimization, mathematical software, operations research, and deep learning. Before Rice, I obtained my BS in Applied Mathematics from the University of California, Davis.
 
 Research Interests
 =====
-Mixed-integer programming, stochastic optimization, optimization algorithms and software, operations research, deep learning
+Mixed-integer programming, stochastic optimization, mathematical software, operations research, deep learning
 
 Personal
 =====
