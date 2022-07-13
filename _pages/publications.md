@@ -1,11 +1,11 @@
 ---
-layout: archive
+layout: single   # archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,4 +13,22 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
+
+
+<!-- A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=nA29Z5YAAAAJ&hl=en/). -->
+
+<!-- Preprints from 2015 and after are also available on [arXiv](https://arxiv.org/a/chan_j_3.html). -->
+
+
+### Selected papers
+
+**A combinatorial disjunctive constraint approach to optimal path planning**
+Raul Garcia, Illya V. Hicks, Joey Huchette, Miles Olson
+
+_In preparation_
+
+**Deep object detection for waterbird monitoring using aerial imagery**
+Krish Kabra, Alexander Xiong, Wenbin Li, Minxuan Luo, William Lu, **Raul Garcia**, Dhananjay Singh Vijay, Jiahui Yu, Maojie Tang, Tianjiao Yu, Hank Arnold, Anna Vallery, Richard Gibbons, Arko Barman
+
+_Submitted to IEEE International Conference on Machine Learning and Applications 2022_
