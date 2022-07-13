@@ -20,8 +20,11 @@ author_profile: true
 
 <!-- Preprints from 2015 and after are also available on [arXiv](https://arxiv.org/a/chan_j_3.html). -->
 
-
-### A combinatorial disjunctive constraint approach to optimal path planning
+* A combinatorial disjunctive constraint approach to optimal path planning
+  **Raul Garcia**, Illya V. Hicks, Joey Huchette, Miles Olson  <br />
+  _In preparation_
+  
+A combinatorial disjunctive constraint approach to optimal path planning
 **Raul Garcia**, Illya V. Hicks, Joey Huchette, Miles Olson  <br />
 _In preparation_
 
