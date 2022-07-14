@@ -1,7 +1,7 @@
----
+<!-- ---
 layout: single
-title: "Teaching"
-permalink: /teaching/
+title: "Presentations"
+permalink: /presentations/
 author_profile: true
 ---
 
@@ -24,4 +24,4 @@ author_profile: true
   * Rice Data to Science (D2K) Lab Showcase 2022 (poster) - May 2022, Rice University, Houston, TX
 
 * On the value of binary expansions for general mixed-integer programs (paper presentation)
-  * Rice SIAM Journal Club - Feb 2022, Rice University, Houston, TX
+  * Rice SIAM Journal Club - Feb 2022, Rice University, Houston, TX -->
