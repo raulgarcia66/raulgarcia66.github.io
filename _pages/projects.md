@@ -10,7 +10,9 @@ author_profile: true
   * C++, Julia, MATLAB
 
 * **A combinatorial disjunctive constraint approach to optimal path planning**
-  * Illya V. Hicks and Joey Huchette
+  * Rice University - Illya V. Hicks and Joey Huchette
+  * Julia
 
 * **Deep learning for precision waterbird monitoring**
-  * Rice Data to Science (D2K) Lab
+  * Rice University - Data to Science (D2K) Lab
+  * Python (Detectron2)
