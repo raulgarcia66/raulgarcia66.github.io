@@ -10,7 +10,7 @@ author_profile: true
   * Description:
   * C++, Julia, MATLAB
 
-* [**ClutteredEnvPathOpt.jl**] (https://github.com/raulgarcia66/ClutteredEnvPathOpt.jl)
+* [**ClutteredEnvPathOpt.jl**](https://github.com/raulgarcia66/ClutteredEnvPathOpt.jl)
   * Rice University - with Illya V. Hicks, Joey Huchette and Miles Olson
   * Package for solving optimal path planning problems in cluttered environments for robots and drones
     * Formulated as a mixed-integer quadratically-constrained quadratic program (MIQCQP) with disjunctive contraints for assigning footsteps or waypoints to obstacle-free regions
@@ -19,7 +19,7 @@ author_profile: true
       * Big-M
   * Julia
 
-* [**Audubon_F21**] (https://github.com/RiceD2KLab/Audubon_F21/tree/SP22)
+* [**Audubon_F21**](https://github.com/RiceD2KLab/Audubon_F21/tree/SP22)
   * Rice University - Data to Science (D2K) Lab
   * Package for identifying and censusing various colonial waterbird species from UAV imagery of nesting islands
     * Sponsored by Houston Audubon for real-world deployment in their waterbird monitoring studies
