@@ -7,7 +7,9 @@ author_profile: true
 
 * **Airborne Collision Avoidance System X (ACAS X)**
   * MIT Lincoln Laboratory
-  * Description:
+  * Software for generating airborne collision avoidance advisories of manned and unmanned aircraft
+    * Logic formulated as Markov decision process
+    * Computational strategies employed for handling large state space
   * C++, Julia, MATLAB
 
 * **ClutteredEnvPathOpt.jl** [(link)](https://github.com/raulgarcia66/ClutteredEnvPathOpt.jl)
