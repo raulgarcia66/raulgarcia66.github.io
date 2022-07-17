@@ -9,10 +9,10 @@ author_profile: true
   * MIT Lincoln Laboratory
   * C++, Julia, MATLAB
 
-* **A combinatorial disjunctive constraint approach to optimal path planning**
-  * Rice University - Illya V. Hicks and Joey Huchette
+* **ClutteredEnvPathOpt.jl**
+  * Rice University - with Illya V. Hicks, Joey Huchette and Miles Olson
   * Julia
 
-* **Deep learning for precision waterbird monitoring**
+* **Audubon_F21**
   * Rice University - Data to Science (D2K) Lab
   * Python (Detectron2)
