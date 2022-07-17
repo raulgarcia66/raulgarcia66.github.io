@@ -21,10 +21,10 @@ author_profile: true
 <!-- Preprints from 2015 and after are also available on [arXiv](https://arxiv.org/a/chan_j_3.html). -->
 
 
-**A combinatorial disjunctive constraint approach to optimal path planning**  <br />
-Raul Garcia, Illya V. Hicks, Joey Huchette, Miles Olson  <br />
-_In preparation_
+* **A combinatorial disjunctive constraint approach to optimal path planning**  <br />
+  Raul Garcia, Illya V. Hicks, Joey Huchette, Miles Olson  <br />
+  _In preparation_
 
-**Deep object detection for waterbird monitoring using aerial imagery**  <br />
-Krish Kabra, Alexander Xiong, Wenbin Li, Minxuan Luo, William Lu, Raul Garcia, Dhananjay Singh Vijay, Jiahui Yu, Maojie Tang, Tianjiao Yu, Hank Arnold, Anna Vallery, Richard Gibbons, Arko Barman  <br />
-_Submitted to IEEE International Conference on Machine Learning and Applications 2022_
+* **Deep object detection for waterbird monitoring using aerial imagery**  <br />
+  Krish Kabra, Alexander Xiong, Wenbin Li, Minxuan Luo, William Lu, Raul Garcia, Dhananjay Singh Vijay, Jiahui Yu, Maojie Tang, Tianjiao Yu, Hank Arnold, Anna Vallery, Richard Gibbons, Arko Barman  <br />
+  _Submitted to IEEE International Conference on Machine Learning and Applications 2022_
