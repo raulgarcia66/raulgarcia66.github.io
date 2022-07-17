@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Airborne Collision Avoidance System X (ACAS X)**
-  * MIT Lincoln Laboratory
+  * MIT Lincoln Laboratory - Group 42
   * Software for generating airborne collision avoidance advisories for manned and unmanned aircraft
     * Logic formulated as Markov decision process
     * Computational strategies employed for handling large state space
