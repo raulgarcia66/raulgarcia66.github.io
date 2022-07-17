@@ -8,11 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at Rice University, in the department of Computational Applied Mathematics & Operations Research. Before Rice, I obtained my BS in Applied Mathematics from the University of California, Davis.
+I am a third-year PhD student at Rice University, in the department of Computational Applied Mathematics & Operations Research (CMOR). Before Rice, I obtained my BS in Applied Mathematics from the University of California, Davis.
 
 Research Interests
 =====
 Mixed-integer programming, stochastic optimization, mathematical software, operations research, deep learning
+
+Experience
+=====
+* Research Intern, MIT Lincoln Laboratory (2022)
+* Instructor, Tapia STEM Camp, Rice University (2021)
+* Grader & Graduate Research Assistant, CMOR Dept., Rice University (2020-Present)
+* Quality Product Auditor, Pacific Southwest Container (2019-2020)
+* Undergraduate Grader, Dept. of Mathematics, UC Davis (2017-2018)
+* Orientation Leader, UC Davis (2017)
+* Undergraduate Teaching Assistant, Dept. of Mathematics, UC Davis (2016-2017)
 
 Personal
 =====
