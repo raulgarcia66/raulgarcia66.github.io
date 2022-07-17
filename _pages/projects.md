@@ -10,6 +10,7 @@ author_profile: true
   * Software for generating airborne collision avoidance advisories of manned and unmanned aircraft
     * Logic formulated as Markov decision process
     * Computational strategies employed for handling large state space
+    * Contributed visualization features for analysis of policy evolution over iterations of value iteration algorithm
   * C++, Julia, MATLAB
 
 * **ClutteredEnvPathOpt.jl** [(repo)](https://github.com/raulgarcia66/ClutteredEnvPathOpt.jl)
