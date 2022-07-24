@@ -12,7 +12,7 @@ author_profile: true
   * INFORMS Annual Conference 2022 - Oct 2022 (_Scheduled_), Indianapolis, IN
   * MIP Workshop 2022 (poster) - May 2022, Rutgers University, New Brunswick, NJ
   * Kavraki Lab - May 2022, Rice University, Houston, TX
-  * CAAM Department Graduate Seminar - September 2022, Rice University, Houston, TX
+  * CMOR Department Graduate Seminar - September 2022, Rice University, Houston, TX
 
 * **Deep learning for precision waterbird monitoring**
   * Rice Data to Science (D2K) Lab Showcase 2022 (poster) - May 2022, Rice University, Houston, TX
