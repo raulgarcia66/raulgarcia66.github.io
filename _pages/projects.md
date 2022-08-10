@@ -12,7 +12,7 @@ author_profile: true
     * Computational strategies employed for handling large state space, including
       * Multilinear interpolation
       * Parallel computing
-    * Contributed visualization features for analysis of policy evolution over iterations of value iteration algorithm
+    * Contributed visualization tool for analysis of policy evolution over iterations of value iteration algorithm
   * C++, Julia, MATLAB
 
 * **ClutteredEnvPathOpt.jl** [(repo)](https://github.com/raulgarcia66/ClutteredEnvPathOpt.jl)
