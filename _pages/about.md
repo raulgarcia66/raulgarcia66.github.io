@@ -27,6 +27,7 @@ Experience
 Awards
 =====
 * GEM Fellowship - MIT Lincoln Laboratory
+* Research Mentoring Fellowship - Data to Knowledge Lab, Rice University
 * Computational Science and Engineering Recruiting Fellowship - Ken Kennedy Institute, Rice University
 
 Personal
