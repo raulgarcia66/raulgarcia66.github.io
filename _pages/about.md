@@ -26,9 +26,10 @@ Experience
 
 Awards
 =====
-* GEM Fellowship - MIT Lincoln Laboratory
-* Research Mentoring Fellowship - Data to Knowledge Lab, Rice University
-* Computational Science and Engineering Recruiting Fellowship - Ken Kennedy Institute, Rice University
+* NIH NCI Research Supplement to Promote Diversity in Health-Related Research (2022-2025)
+* GEM Fellowship - MIT Lincoln Laboratory (2022-2025)
+* Research Mentoring Fellowship - Data to Knowledge Lab, Rice University (2022)
+* Computational Science and Engineering Recruiting Fellowship - Ken Kennedy Institute, Rice University (2020-2024)
 
 Personal
 =====

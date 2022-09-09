@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Leveraging machine learning to develop collision avoidance systems for manned and unmanned aircraft**
-  * TAPIA Conference - Sep 2022 (_Scheduled_), Washington, D.C.
+  * TAPIA Conference - Sep 2022, Washington, D.C.
 
 * **A combinatorial disjunctive constraint approach to optimal path planning**
   * INFORMS Annual Conference 2022 - Oct 2022 (_Scheduled_), Indianapolis, IN

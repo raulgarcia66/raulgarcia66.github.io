@@ -15,7 +15,7 @@ Vitae also available to download [here](../files/Raul_Garcia_CV.pdf).
 
 <object data="../files/jcv.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../files/Raul_Garcia_CV.pdf">
-        <p>This browser does not support PDFs. Please <a href="../files/jcv.pdf">download the PDF</a> to view.</p>
+        <p>This browser does not support PDFs. Please <a href="../files/Raul_Garcia_CV.pdf">download the PDF</a> to view.</p>
     </embed>
 </object>
 
