@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at Rice University, in the department of Computational Applied Mathematics & Operations Research (CMOR). Before Rice, I obtained my BS in Applied Mathematics from the University of California, Davis.
+I am a third-year PhD student at Rice University, working with Dr. Andrew J. Schaefer in the department of Computational Applied Mathematics & Operations Research (CMOR). Before Rice, I obtained my BS in Applied Mathematics from the University of California, Davis.
 
 Research Interests
 =====
@@ -29,6 +29,7 @@ Awards
 * NIH Research Supplement to Promote Diversity in Health-Related Research Award (2022-2025)
   * Sponsoring Agency: National Cancer Institute (NCI)
 * GEM Fellowship - MIT Lincoln Laboratory (2022-2025)
+* NSF AGEP STRIDES Scholar (2022)
 * Research Mentoring Fellowship - Data to Knowledge Lab, Rice University (2022)
 * Computational Science and Engineering Recruiting Fellowship - Ken Kennedy Institute, Rice University (2020-2024)
 
