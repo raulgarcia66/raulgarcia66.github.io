@@ -16,6 +16,7 @@ Mixed-integer programming, stochastic optimization, mathematical software, opera
 
 Experience
 =====
+* Research Mentor, Data to Knowledge Lab, Rice University (2022)
 * Research Intern, MIT Lincoln Laboratory - Group 42 (2022)
 * Instructor, Tapia STEM Camp, Rice University (2021)
 * Grader & Graduate Research Assistant, CMOR Dept., Rice University (2020-Present)
