@@ -28,3 +28,4 @@ author_profile: true
 * **Deep object detection for waterbird monitoring using aerial imagery**  <br />
   Krish Kabra, Alexander Xiong, Wenbin Li, Minxuan Luo, William Lu, Raul Garcia, Dhananjay Singh Vijay, Jiahui Yu, Maojie Tang, Tianjiao Yu, Hank Arnold, Anna Vallery, Richard Gibbons, Arko Barman  <br />
   _To appear in IEEE International Conference on Machine Learning and Applications 2022_
+  [arXIv] (https://arxiv.org/abs/2210.04868)
