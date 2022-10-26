@@ -25,6 +25,6 @@ A complete list of publications is available on my [Google Scholar page](https:/
   Raul Garcia, Illya V. Hicks, Joey Huchette, Miles Olson  <br />
   _In preparation_
 
-* **Deep object detection for waterbird monitoring using aerial imagery** ([arXiv])(https://arxiv.org/abs/2210.04868)  <br />
+* **Deep object detection for waterbird monitoring using aerial imagery** ([arXiv](https://arxiv.org/abs/2210.04868))  <br />
   Krish Kabra, Alexander Xiong, Wenbin Li, Minxuan Luo, William Lu, Raul Garcia, Dhananjay Singh Vijay, Jiahui Yu, Maojie Tang, Tianjiao Yu, Hank Arnold, Anna Vallery, Richard Gibbons, Arko Barman  <br />
   _To appear in IEEE International Conference on Machine Learning and Applications 2022_
