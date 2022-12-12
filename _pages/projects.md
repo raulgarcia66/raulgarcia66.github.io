@@ -40,7 +40,7 @@ author_profile: true
 * **Forecasting Yearly Battery Replacements**
   * Rice University - Data to Science (D2K) Lab
   * Mentored a team of students on a capstone data science project focusing on forecasting yearly battery replacements for LivaNova's vagus nerve stimulator medical device
-  * Team employed survival analysis to generate battery durations for implants of existing patients as well as new patients
+  * Team employed survival analysis to generate battery durations for implants for both existing patients and new patients
     * Existing patients: Survival function modeled with a Log-normal Accelerated Failure Time model
     * New patients: Survival function modeled with a Kaplan-Meier estimator (fixed growth rate is assumed)
   * 1st Place in the Fall 2022 D2K Lab Showcase
