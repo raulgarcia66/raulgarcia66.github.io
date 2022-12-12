@@ -43,4 +43,4 @@ author_profile: true
   * Team employed survival analysis to generate battery durations for implants for both existing patients and new patients
     * Existing patients: Survival function modeled with a Log-normal Accelerated Failure Time model
     * New patients: Survival function modeled with a Kaplan-Meier estimator
-  * 1st Place in the Fall 2022 D2K Lab Showcase
+  * 1st Place in the Fall 2022 D2K Showcase
