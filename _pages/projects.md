@@ -18,10 +18,12 @@ author_profile: true
 * **ClutteredEnvPathOpt.jl** [(repo)](https://github.com/raulgarcia66/ClutteredEnvPathOpt.jl)
   * Rice University - with Illya V. Hicks, Joey Huchette and Miles Olson
   * Package for solving optimal path planning problems in cluttered environments for robots and drones
-    * Formulated as a mixed-integer quadratically-constrained quadratic program (MIQCQP) with disjunctive contraints for assigning footsteps or waypoints to obstacle-free regions
-    * Disjunctive constraint formulation approaches:
+    <!-- * Formulated as a mixed-integer quadratically-constrained quadratic program (MIQCQP) with disjunctive contraints for assigning footsteps or waypoints to obstacle-free regions -->
+    * Implemented the independent branching scheme for formulating obstacle avoidance disjunctive constraints, including an algorithm for obtaining the necessary biclique covers on a special class of graphs
+    * Includes infrastructure for creating obstacles, generating obstacle-free regions, and constructing the associated graphs
+    <!-- * Disjunctive constraint formulation approaches:
       * Independent branching scheme
-      * Big-M
+      * Big-M -->
   * Julia
 
 * **Audubon_F21** [(repo)](https://github.com/RiceD2KLab/Audubon_F21/tree/SP22)
@@ -34,3 +36,11 @@ author_profile: true
     * Bayesian hyperparameter optimization used for selection of learning rate and decay factor
     * Data augmentation techniques for minority species include horizontal and vertical mirrorings, 90 degree rotations, and random brightness and contrast adjustments
   * Python
+
+* **Forecasting Yearly Battery Replacements**
+  * Rice University - Data to Science (D2K) Lab
+  * Mentored a team of students on a capstone data science project focusing on forecasting yearly battery replacements for LivaNova's vagus nerve stimulator medical device
+  * Team employed survival analysis to generate battery durations for implants of existing patients as well as new patients
+    ** Existing patients: Survival function modeled with a Log-normal Accelerated Failure Time model
+    ** New patients: Survival function modeled with a Kaplan-Meier estimator (fixed growth rate is assumed)
+  * 1st Place in the Fall 2022 D2K Lab Showcase
