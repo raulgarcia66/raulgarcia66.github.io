@@ -19,7 +19,7 @@ author_profile: true
   * Rice University - with Illya V. Hicks, Joey Huchette and Miles Olson
   * Package for solving optimal path planning problems in cluttered environments for robots and drones
     <!-- * Formulated as a mixed-integer quadratically-constrained quadratic program (MIQCQP) with disjunctive contraints for assigning footsteps or waypoints to obstacle-free regions -->
-    * Implemented the independent branching scheme for formulating obstacle avoidance disjunctive constraints, including an algorithm for obtaining the necessary biclique covers on a special class of graphs
+    * Implemented the independent branching scheme to formulate obstacle avoidance disjunctive constraints, including an algorithm for obtaining the necessary biclique covers on a special class of graphs
     * Includes infrastructure for creating obstacles, generating obstacle-free regions, and constructing the associated graphs
     <!-- * Disjunctive constraint formulation approaches: -->
       <!-- * Independent branching scheme -->
