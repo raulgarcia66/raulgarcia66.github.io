@@ -23,7 +23,7 @@ A complete list of publications is available on my [Google Scholar page](https:/
 
 * **A combinatorial disjunctive constraint approach to optimal path planning**  <br />
   Raul Garcia, Illya V. Hicks, Joey Huchette, Miles Olson  <br />
-  _In preparation_
+  _Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023_
 
 * **Deep object detection for waterbird monitoring using aerial imagery** ([arXiv](https://arxiv.org/abs/2210.04868))  <br />
   Krish Kabra, Alexander Xiong, Wenbin Li, Minxuan Luo, William Lu, Raul Garcia, Dhananjay Singh Vijay, Jiahui Yu, Maojie Tang, Tianjiao Yu, Hank Arnold, Anna Vallery, Richard Gibbons, Arko Barman  <br />
