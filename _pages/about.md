@@ -12,7 +12,7 @@ I am a third-year PhD student at Rice University, working with Dr. Andrew J. Sch
 
 Research Interests
 =====
-Mixed-integer programming, stochastic optimization, mathematical software, operations research, deep learning
+Mixed-integer programming, stochastic optimization, mathematical software, operations research, deep learning applications
 
 Experience
 =====
@@ -36,7 +36,7 @@ Awards
 
 Personal
 =====
-Some of my hobbies/interests include soccer, music, guitar, movies, and writing.
+Some of my hobbies/interests include soccer, music, guitar, cinema, and writing.
 
 My hometown is Modesto, CA.
 
