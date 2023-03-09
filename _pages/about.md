@@ -12,7 +12,7 @@ I am a third-year PhD student at Rice University, working with Dr. Andrew J. Sch
 
 Research Interests
 =====
-Mixed-integer programming, stochastic optimization, mathematical software, operations research, deep learning applications
+Mixed-integer programming, optimization under uncertainty, mathematical software, operations research, deep learning applications
 
 Experience
 =====

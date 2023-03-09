@@ -21,8 +21,8 @@ A complete list of publications is available on my [Google Scholar page](https:/
 <!-- Preprints from 2015 and after are also available on [arXiv](https://arxiv.org/a/chan_j_3.html). -->
 
 
-* **A combinatorial disjunctive constraint approach to optimal path planning**  <br />
-  Raul Garcia, Illya V. Hicks, Joey Huchette, Miles Olson  <br />
+* **Combinatorial disjunctive constraints for obstacle avoidance in path planning**  <br />
+  Raul Garcia, Illya V. Hicks, Joey Huchette  <br />
   _Submitted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023_
 
 * **Deep object detection for waterbird monitoring using aerial imagery** ([arXiv](https://arxiv.org/abs/2210.04868))  <br />
