@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Raul Garcia"
-description              : &description "PhD Student at Rice University"
+description              : &description "PhD Candidate at Rice University"
 url                      : https://raulgarcia66.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "raulgarcia66.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Raul Garcia"
   avatar           : "Profile Pic.jpg"
-  bio              : "PhD student in Computational Applied Mathematics & Operations Research at Rice University"
+  bio              : "PhD Candidate in Computational Applied Mathematics & Operations Research at Rice University"
   location         : "Houston, TX"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
