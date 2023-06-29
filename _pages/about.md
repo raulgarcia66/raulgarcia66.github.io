@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at Rice University, working with [Andrew J. Schaefer](https://profiles.rice.edu/faculty/andrew-j-schaefer) in the department of [Computational Applied Mathematics & Operations Research](https://cmor.rice.edu/) (CMOR). Our work primarily focuses on optimization under uncertainty for head and neck cancer treatment, in collaboration with [MD Anderson Cancer Center](https://www.mdanderson.org/). Before Rice, I obtained my BS in Applied Mathematics from the [University of California, Davis](https://www.math.ucdavis.edu/).
+I am a third-year PhD candidate at Rice University, working with [Andrew J. Schaefer](https://profiles.rice.edu/faculty/andrew-j-schaefer) in the department of [Computational Applied Mathematics & Operations Research](https://cmor.rice.edu/) (CMOR). Our work primarily focuses on optimization under uncertainty for head and neck cancer treatment, in collaboration with [MD Anderson Cancer Center](https://www.mdanderson.org/). Before Rice, I obtained my BS in Applied Mathematics from the [University of California, Davis](https://www.math.ucdavis.edu/).
 
 Research Interests
 =====
@@ -16,6 +16,7 @@ Mixed-integer programming, optimization under uncertainty, mathematical software
 
 Experience
 =====
+* Research Assistant, Department of Radiation Oncology, University of Texas MD Anderson Cancer Center (2023-Present)
 * Research Mentor, Data to Knowledge Lab, Rice University (2022)
 * Research Intern, MIT Lincoln Laboratory - Group 42 (2022)
 * Instructor, Tapia STEM Camp, Rice University (2021)
