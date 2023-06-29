@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD candidate at Rice University, working with [Andrew J. Schaefer](https://profiles.rice.edu/faculty/andrew-j-schaefer) in the department of [Computational Applied Mathematics & Operations Research](https://cmor.rice.edu/) (CMOR). Our work primarily focuses on optimization under uncertainty for head and neck cancer treatment, in collaboration with [MD Anderson Cancer Center](https://www.mdanderson.org/). Before Rice, I obtained my BS in Applied Mathematics from the [University of California, Davis](https://www.math.ucdavis.edu/).
+I am a third-year PhD candidate at Rice University, working with [Andrew J. Schaefer](https://profiles.rice.edu/faculty/andrew-j-schaefer) in the department of [Computational Applied Mathematics & Operations Research](https://cmor.rice.edu/) (CMOR). Our work primarily focuses on optimization under uncertainty for head and neck cancer treatment, in collaboration with [Fuller Lab](https://www.mdanderson.org/research/departments-labs-institutes/labs/fuller-laboratory.html) at [MD Anderson Cancer Center](https://www.mdanderson.org/). Before Rice, I obtained my BS in Applied Mathematics from the [University of California, Davis](https://www.math.ucdavis.edu/).
 
 Research Interests
 =====
