@@ -9,6 +9,7 @@ author_profile: true
   * TAPIA Conference - Sep 2022, Washington, D.C.
 
 * **A combinatorial disjunctive constraint approach to optimal path planning**
+  * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 - Oct 2023, Detroit, MI
   * INFORMS Annual Conference 2022 - Oct 2022, Indianapolis, IN
   * MIP Workshop 2022 (poster) - May 2022, Rutgers University, New Brunswick, NJ
   * Kavraki Lab - May 2022, Rice University, Houston, TX
