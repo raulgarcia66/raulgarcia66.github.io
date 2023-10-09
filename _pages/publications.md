@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 
-A complete list of publications is available on my [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&hl=en).
+My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&hl=en).
 
 <!-- Preprints from 2015 and after are also available on [arXiv](https://arxiv.org/a/chan_j_3.html). -->
 
