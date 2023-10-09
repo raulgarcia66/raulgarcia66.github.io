@@ -21,10 +21,14 @@ A complete list of publications is available on my [Google Scholar page](https:/
 <!-- Preprints from 2015 and after are also available on [arXiv](https://arxiv.org/a/chan_j_3.html). -->
 
 
+* **Strategy investments in matrix games** <br />
+  Raul Garcia, Seyedmohammadhossein Hosseinian, Mallesh M. Pai, Andrew J. Schaefer
+  _Submitted to Operations Research Letters_
+
 * **Combinatorial disjunctive constraints for obstacle avoidance in path planning**  <br />
   Raul Garcia, Illya V. Hicks, Joey Huchette  <br />
   _To appear in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023_
 
-* **Deep object detection for waterbird monitoring using aerial imagery** ([arXiv](https://arxiv.org/abs/2210.04868))  <br />
-  Krish Kabra, Alexander Xiong, Wenbin Li, Minxuan Luo, William Lu, Raul Garcia, Dhananjay Singh Vijay, Jiahui Yu, Maojie Tang, Tianjiao Yu, Hank Arnold, Anna Vallery, Richard Gibbons, Arko Barman  <br />
+* **Deep object detection for waterbird monitoring using aerial imagery** ([link](https://ieeexplore.ieee.org/document/10069986))  <br />
+  Krish Kabra, Alexander Xiong, Wenbin Li, Minxuan Luo, William Lu, Tianjiao Yu, Jiahui Yu, Dhananjay Singh Vijay, Raul Garcia, Maojie Tang, Hank Arnold, Anna Vallery, Richard Gibbons, Arko Barman  <br />
   _IEEE International Conference on Machine Learning and Applications 2022_
