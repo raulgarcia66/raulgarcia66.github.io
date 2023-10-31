@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 {% comment %} 
-Vitae also available to download [here](../files/Raul_Garcia_CV.pdf).
+Curriculum vitae also available to download [here](../files/Raul_Garcia_CV.pdf).
 {% endcomment %} 
 
 <object data="../files/jcv.pdf" type="application/pdf" width="700px" height="700px">
