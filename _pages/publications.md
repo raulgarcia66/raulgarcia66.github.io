@@ -25,10 +25,10 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
   Raul Garcia, Seyedmohammadhossein Hosseinian, Mallesh M. Pai, Andrew J. Schaefer
   _Submitted to Optimization Letters_
 
-* **Combinatorial disjunctive constraints for obstacle avoidance in path planning** ([link](../files/Combinatorial_Disjunctive_Constraints_for_Obstacle_Avoidance_in_Path_Planning.pdf))  <br />
+* **Combinatorial disjunctive constraints for obstacle avoidance in path planning** ([arXiv](https://arxiv.org/abs/2312.02016))  <br />
   Raul Garcia, Illya V. Hicks, Joey Huchette  <br />
   _To appear in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023_
 
-* **Deep object detection for waterbird monitoring using aerial imagery** ([link](https://ieeexplore.ieee.org/document/10069986))  <br />
+* **Deep object detection for waterbird monitoring using aerial imagery** ([IEEE](https://ieeexplore.ieee.org/document/10069986)) ([arXiv](https://arxiv.org/abs/2210.04868))  <br />
   Krish Kabra, Alexander Xiong, Wenbin Li, Minxuan Luo, William Lu, Tianjiao Yu, Jiahui Yu, Dhananjay Singh Vijay, Raul Garcia, Maojie Tang, Hank Arnold, Anna Vallery, Richard Gibbons, Arko Barman  <br />
   _IEEE International Conference on Machine Learning and Applications 2022_
