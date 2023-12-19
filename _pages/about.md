@@ -12,7 +12,7 @@ I am a fourth-year PhD candidate at Rice University, working with [Andrew J. Sch
 
 Research Interests
 =====
-Mixed-integer programming, optimization under uncertainty, mathematical software, operations research, deep learning applications
+Optimization under uncertainty, mixed-integer programming, operations research in healthcare, mathematical software
 
 Experience
 =====
@@ -37,7 +37,7 @@ Awards
 
 Personal
 =====
-Some of my hobbies/interests include soccer, music, guitar, cinema, and writing.
+Some of my hobbies/interests include soccer, music, guitar, movies, drawing and writing.
 
 My hometown is Modesto, CA.
 

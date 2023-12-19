@@ -21,14 +21,14 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 <!-- Preprints from 2015 and after are also available on [arXiv](https://arxiv.org/a/chan_j_3.html). -->
 
 
-* **Strategy investments in matrix games** ([link](https://optimization-online.org/2023/10/strategy-investments-in-matrix-games/)) <br />
+* **Strategy investments in matrix games** ([Opt-Onl](https://optimization-online.org/2023/10/strategy-investments-in-matrix-games/)) <br />
   Raul Garcia, Seyedmohammadhossein Hosseinian, Mallesh M. Pai, Andrew J. Schaefer
   _Submitted to Optimization Letters_
 
-* **Combinatorial disjunctive constraints for obstacle avoidance in path planning** ([arXiv](https://arxiv.org/abs/2312.02016))  <br />
+* **Combinatorial disjunctive constraints for obstacle avoidance in path planning** ([IEEE])(https://ieeexplore.ieee.org/abstract/document/10342117)) ([arXiv](https://arxiv.org/abs/2312.02016))  <br />
   Raul Garcia, Illya V. Hicks, Joey Huchette  <br />
-  _To appear in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023_
+  _2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_
 
 * **Deep object detection for waterbird monitoring using aerial imagery** ([IEEE](https://ieeexplore.ieee.org/document/10069986)) ([arXiv](https://arxiv.org/abs/2210.04868))  <br />
   Krish Kabra, Alexander Xiong, Wenbin Li, Minxuan Luo, William Lu, Tianjiao Yu, Jiahui Yu, Dhananjay Singh Vijay, Raul Garcia, Maojie Tang, Hank Arnold, Anna Vallery, Richard Gibbons, Arko Barman  <br />
-  _IEEE International Conference on Machine Learning and Applications 2022_
+  _2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)_
