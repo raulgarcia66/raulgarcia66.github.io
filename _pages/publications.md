@@ -25,7 +25,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
   Raul Garcia, Seyedmohammadhossein Hosseinian, Mallesh M. Pai, Andrew J. Schaefer
   _Submitted to Optimization Letters_
 
-* **Combinatorial disjunctive constraints for obstacle avoidance in path planning** ([IEEE])(https://ieeexplore.ieee.org/abstract/document/10342117)) ([arXiv](https://arxiv.org/abs/2312.02016))  <br />
+* **Combinatorial disjunctive constraints for obstacle avoidance in path planning** ([IEEE](https://ieeexplore.ieee.org/abstract/document/10342117)) ([arXiv](https://arxiv.org/abs/2312.02016))  <br />
   Raul Garcia, Illya V. Hicks, Joey Huchette  <br />
   _2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_
 
