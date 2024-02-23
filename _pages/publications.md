@@ -27,7 +27,7 @@ _In Preparation_
 
 * **Strategy investments in matrix games** ([Opt-Onl](https://optimization-online.org/2023/10/strategy-investments-in-matrix-games/)) <br />
   Raul Garcia, Seyedmohammadhossein Hosseinian, Mallesh M. Pai, Andrew J. Schaefer
-  _Under Revision_
+  _Accepted with Minor Revisions to Optimization Letters_
 
 * **Combinatorial disjunctive constraints for obstacle avoidance in path planning** ([IEEE](https://ieeexplore.ieee.org/abstract/document/10342117)) ([arXiv](https://arxiv.org/abs/2312.02016))  <br />
   Raul Garcia, Illya V. Hicks, Joey Huchette  <br />
