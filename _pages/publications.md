@@ -25,6 +25,10 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 Fatemeh Nosrat, Cem Dede, Lucas B. McCullum, Raul Garcia, Abdallah S.R. Mohamed, Jacob G. Scott, James E. Bates, Brigid A. McDonald, Kareem A. Wahid, Mohamed A. Naser, Renjie He, Kristy K. Brock, Jolien Heukelom, Seyedmohammadhossein Hosseinian, Mehdi Hemmati, Andrew J. Schaefer, Clifton D. Fuller
 _In Preparation_
 
+* **Markov Models for Clinical Decision Making in Radiation Oncology: A Systematic Review** <br />
+Lucas B. McCullum, Aysenur Karagoz, Cem Dede, Raul Garcia, Fatemeh Nosrat, Mehdi Hemmati, Seyedmohammadhossein Hosseinian, Andrew J. Schaefer, Clifton D. Fuller
+_Submitted_
+
 * **Strategy investments in matrix games** ([Opt-Onl](https://optimization-online.org/2023/10/strategy-investments-in-matrix-games/)) <br />
   Raul Garcia, Seyedmohammadhossein Hosseinian, Mallesh M. Pai, Andrew J. Schaefer
   _Accepted with Minor Revisions to Optimization Letters_
