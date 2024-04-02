@@ -21,7 +21,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 <!-- Preprints from 2015 and after are also available on [arXiv](https://arxiv.org/a/chan_j_3.html). -->
 
 
-* **Personalized Rescheduling of Adaptive Organ-at-Risk Sparing Radiation Therapy for Head and Neck Cancer under Re-planning Resource Constraints: A Novel Application of Markov Decision Processes** ([medRXiv])(https://www.medrxiv.org/content/10.1101/2024.04.01.24305163v1) <br />
+* **Personalized Rescheduling of Adaptive Organ-at-Risk Sparing Radiation Therapy for Head and Neck Cancer under Re-planning Resource Constraints: A Novel Application of Markov Decision Processes** ([medRXiv](https://www.medrxiv.org/content/10.1101/2024.04.01.24305163v1) <br />
 Fatemeh Nosrat, Cem Dede, Lucas B. McCullum, Raul Garcia, Abdallah S.R. Mohamed, Jacob G. Scott, James E. Bates, Brigid A. McDonald, Kareem A. Wahid, Mohamed A. Naser, Renjie He, Amy C. Moreno, Lisanne V. van Dijk, Kristy K. Brock, Jolien Heukelom, Seyedmohammadhossein Hosseinian, Mehdi Hemmati, Andrew J. Schaefer, Clifton D. Fuller
 _Submitted_
 
