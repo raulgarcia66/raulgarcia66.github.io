@@ -27,7 +27,7 @@ _Submitted_
 
 * **Markov Models for Clinical Decision Making in Radiation Oncology: A Systematic Review** <br />
 Lucas B. McCullum, Aysenur Karagoz, Cem Dede, Raul Garcia, Fatemeh Nosrat, Mehdi Hemmati, Seyedmohammadhossein Hosseinian, Andrew J. Schaefer, Clifton D. Fuller
-_Submitted_
+_To appear in Journal of Medical Imaging and Radiation Oncology (JMIRO)_
 
 * **Strategy Investments in Zero-Sum Games** ([Opt-Onl](https://optimization-online.org/2023/10/strategy-investments-in-matrix-games/)) <br />
   Raul Garcia, Seyedmohammadhossein Hosseinian, Mallesh M. Pai, Andrew J. Schaefer
