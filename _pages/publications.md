@@ -31,7 +31,7 @@ _To appear in Journal of Medical Imaging and Radiation Oncology (JMIRO)_
 
 * **Strategy Investments in Zero-Sum Games** ([Opt-Onl](https://optimization-online.org/2023/10/strategy-investments-in-matrix-games/)) <br />
   Raul Garcia, Seyedmohammadhossein Hosseinian, Mallesh M. Pai, Andrew J. Schaefer <br />
-  _Accepted with Minor Revisions to Optimization Letters_
+  _Resubmitted after minor revisions to Optimization Letters_
 
 * **Combinatorial Disjunctive Constraints for Obstacle Avoidance in Path Planning** ([IEEE](https://ieeexplore.ieee.org/abstract/document/10342117)) ([arXiv](https://arxiv.org/abs/2312.02016))  <br />
   Raul Garcia, Illya V. Hicks, Joey Huchette  <br />
