@@ -25,11 +25,11 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 Fatemeh Nosrat, Cem Dede, Lucas B. McCullum, Raul Garcia, Abdallah S.R. Mohamed, Jacob G. Scott, James E. Bates, Brigid A. McDonald, Kareem A. Wahid, Mohamed A. Naser, Renjie He, Amy C. Moreno, Lisanne V. van Dijk, Kristy K. Brock, Jolien Heukelom, Seyedmohammadhossein Hosseinian, Mehdi Hemmati, Andrew J. Schaefer, Clifton D. Fuller <br />
 _Submitted_
 
-* **Strategy Investments in Zero-Sum Games** ([Opt-Letters](https://link.springer.com/article/10.1007/s11590-024-02130-z)) ([Opt-Onl](https://optimization-online.org/2023/10/strategy-investments-in-matrix-games/)) <br />
+* **Strategy Investments in Zero-Sum Games** ([Opt-Letters](https://link.springer.com/article/10.1007/s11590-024-02130-z)) <br />
   Raul Garcia, Seyedmohammadhossein Hosseinian, Mallesh M. Pai, Andrew J. Schaefer <br />
   _Optimization Letters_
 
-* **Markov Models for Clinical Decision Making in Radiation Oncology: A Systematic Review** ([JMIRO](https://onlinelibrary.wiley.com/doi/10.1111/1754-9485.13656)) ([PDF](../files/Markov models for clinical decision-making in radiation oncology-A systematic review.pdf)) <br />
+* **Markov Models for Clinical Decision Making in Radiation Oncology: A Systematic Review** ([JMIRO](https://onlinelibrary.wiley.com/doi/10.1111/1754-9485.13656)) <br />
 Lucas B. McCullum, Aysenur Karagoz, Cem Dede, Raul Garcia, Fatemeh Nosrat, Mehdi Hemmati, Seyedmohammadhossein Hosseinian, Andrew J. Schaefer, Clifton D. Fuller <br />
 _Journal of Medical Imaging and Radiation Oncology (JMIRO)_
 
