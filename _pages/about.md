@@ -33,6 +33,7 @@ Awards
 * GEM Fellowship - MIT Lincoln Laboratory (2022-2025)
 * NSF AGEP STRIDES Scholar (2022)
 * Research Mentoring Fellowship - Data to Knowledge Lab, Rice University (2022)
+  * Mentored team received 1st place at [Data to Knowledge Lab Fall 2022 Showcase](https://d2k.rice.edu/news/battery-replacement-model-epilepsy-device-wins-d2k-fall-2022-showcase)
 * Computational Science and Engineering Recruiting Fellowship - Ken Kennedy Institute, Rice University (2020-2024)
 
 Personal
