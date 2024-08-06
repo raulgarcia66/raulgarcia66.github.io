@@ -12,7 +12,7 @@ I am a fourth-year PhD candidate at Rice University, working with [Andrew J. Sch
 
 Research Interests
 =====
-Optimization under uncertainty, mixed-integer programming, operations research in healthcare, mathematical software
+Optimization under uncertainty, POMDPs, bilevel optimization, operations research in healthcare
 
 Experience
 =====
