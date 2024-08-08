@@ -16,7 +16,7 @@ Optimization under uncertainty, POMDPs, bilevel optimization, operations researc
 
 Experience
 =====
-* Research Assistant, Department of Radiation Oncology, University of Texas MD Anderson Cancer Center (2023-Present)
+* Visiting Graduate Student Researcher, Department of Radiation Oncology, University of Texas MD Anderson Cancer Center (2023-Present)
 * Research Mentor, Data to Knowledge Lab, Rice University (2022)
 * Research Intern, MIT Lincoln Laboratory - Group 42 (2022)
 * Instructor, Tapia STEM Camp, Rice University (2021)
