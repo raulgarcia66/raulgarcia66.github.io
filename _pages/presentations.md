@@ -21,5 +21,3 @@ author_profile: true
 * **Deep learning for precision waterbird monitoring**
   * Rice Data to Science (D2K) Lab Showcase 2022 (poster) - May 2022, Rice University, Houston, TX
 
-* **On the value of binary expansions for general mixed-integer programs (paper presentation)**
-  * Rice SIAM Journal Club - Feb 2022, Rice University, Houston, TX
