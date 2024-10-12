@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * **Strategy investments in zero-sum games**
+  * International Symposium on Mathematical Programming (ISMP) - Jul 2024, Montreal, Canada
   * INFORMS Optimization Society Conference - Mar 2024, Houston, TX
 
 * **A combinatorial disjunctive constraint approach to optimal path planning**
