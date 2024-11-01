@@ -20,9 +20,16 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 
 <!-- Preprints from 2015 and after are also available on [arXiv](https://arxiv.org/a/chan_j_3.html). -->
 
+* **Cost-Effectiveness of Personalized Policies for Implementing Organ-at-Risk Sparing Adaptive Radiation Therapy in Head and Neck Cancer: A Markov Decision Process Approach** <br />
+  Seyedmohammadhossein Hosseinian, Daniel Suarez-Aguirre, Cem Dede, Raul Garcia, Lucas McCullum, Mehdi Hemmati, Aysenur Karagoz, Abdallah S. R. Mohamed, Stephen Y. Lai, Katherine A. Hutcheson, Amy C. Moreno, Kristy K. Brock, Fatemeh Nosrat, Clifton D. Fuller, Andrew J. Schaefer <br />
+_Submitted_
 
-* **Personalized Rescheduling of Adaptive Organ-at-Risk Sparing Radiation Therapy for Head and Neck Cancer under Re-planning Resource Constraints: A Novel Application of Markov Decision Processes** ([medRXiv](https://www.medrxiv.org/content/10.1101/2024.04.01.24305163v2)) <br />
-Fatemeh Nosrat, Cem Dede, Lucas B. McCullum, Raul Garcia, Abdallah S.R. Mohamed, Jacob G. Scott, James E. Bates, Brigid A. McDonald, Kareem A. Wahid, Mohamed A. Naser, Renjie He, Amy C. Moreno, Lisanne V. van Dijk, Kristy K. Brock, Jolien Heukelom, Seyedmohammadhossein Hosseinian, Mehdi Hemmati, Andrew J. Schaefer, Clifton D. Fuller <br />
+* **Variable-Interval Temporal Feathering to Optimize Organ-at-Risk Repair for Head and Neck Adaptive Radiotherapy** <br />
+  Aysenur Karagoz, Mehdi Hemmati, Fatemeh Nosrat, Panayiotis Mavroidis, Cem Dede, Lucas B. McCullum, Raul Garcia, Seyedmohammadhossein Hosseinian, Jacob G. Scott, James E. Bates, Heiko Enderling, Abdallah S. R. Mohamed, Kristy K. Brock, Andrew J. Schaefer, Clifton D. Fuller <br />
+_Submitted_
+
+* **Optimal Timing of Organs-at-Risk-Sparing Adaptive Radiation Therapy for Head-and-Neck Cancer under Re-planning Resource Constraints** ([medRXiv](https://www.medrxiv.org/content/10.1101/2024.04.01.24305163v2)) <br />
+Fatemeh Nosrat, Cem Dede, Lucas B. McCullum, Raul Garcia, Abdallah S.R. Mohamed, Jacob G. Scott, James E. Bates, Brigid A. McDonald, Kareem A. Wahid, Mohamed A. Naser, Renjie He, Aysenur Karagoz, Amy C. Moreno, Lisanne V. van Dijk, Kristy K. Brock, Jolien Heukelom, Seyedmohammadhossein Hosseinian, Mehdi Hemmati, Andrew J. Schaefer, Clifton D. Fuller <br />
 _Submitted_
 
 * **Strategy Investments in Zero-Sum Games** ([Opt-Letters](https://link.springer.com/article/10.1007/s11590-024-02130-z)) <br />
