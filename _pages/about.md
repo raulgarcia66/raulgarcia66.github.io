@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at Rice University, working with [Andrew J. Schaefer](https://profiles.rice.edu/faculty/andrew-j-schaefer) in the department of [Computational Applied Mathematics & Operations Research](https://cmor.rice.edu/) (CMOR). Our work primarily focuses on optimization under uncertainty for head and neck cancer treatment, in collaboration with [Dr. Clifton D. Fuller](https://www.mdanderson.org/research/departments-labs-institutes/labs/fuller-laboratory.html), as well as for lung cancer screening, in collaboration with [Dr. Iakovos Toumazis](https://toumiak.com/), both at [MD Anderson Cancer Center](https://www.mdanderson.org/). Before Rice, I obtained my BS in Applied Mathematics from the [University of California, Davis](https://www.math.ucdavis.edu/).
+I am a PhD candidate at Rice University, working with [Andrew J. Schaefer](https://profiles.rice.edu/faculty/andrew-j-schaefer) in the department of [Computational Applied Mathematics & Operations Research](https://cmor.rice.edu/) (CMOR). Our work primarily focuses on optimization under uncertainty, with applications in the early detection and treatment of cancer. We collobrate with [MD Anderson Cancer Center](https://www.mdanderson.org/) Professors [Dr. Iakovos Toumazis](https://toumiak.com/) and [Dr. Clifton D. Fuller](https://www.mdanderson.org/research/departments-labs-institutes/labs/fuller-laboratory.html) on lung cancer screening programs and and head-and-neck cancer treatment, respectively. Before Rice, I obtained my BS in Applied Mathematics from the [University of California, Davis](https://www.math.ucdavis.edu/).
+
+<!-- I am a PhD candidate at Rice University, working with [Andrew J. Schaefer](https://profiles.rice.edu/faculty/andrew-j-schaefer) in the department of [Computational Applied Mathematics & Operations Research](https://cmor.rice.edu/) (CMOR). Our work primarily focuses on optimization under uncertainty for head and neck cancer treatment, in collaboration with [Dr. Clifton D. Fuller](https://www.mdanderson.org/research/departments-labs-institutes/labs/fuller-laboratory.html), as well as for lung cancer screening, in collaboration with [Dr. Iakovos Toumazis](https://toumiak.com/), both at [MD Anderson Cancer Center](https://www.mdanderson.org/). Before Rice, I obtained my BS in Applied Mathematics from the [University of California, Davis](https://www.math.ucdavis.edu/). -->
 
 Research Interests
 =====
@@ -19,8 +21,9 @@ Experience
 * Visiting Graduate Student Researcher, Department of Radiation Oncology, University of Texas MD Anderson Cancer Center (2023-Present)
 * Research Mentor, Data to Knowledge Lab, Rice University (2022)
 * Research Intern, MIT Lincoln Laboratory - Group 42 (2022)
+* Graduate Research Assistant, CMOR Dept., Rice University (2021-Present)
 * Instructor, Tapia STEM Camp, Rice University (2021)
-* Grader & Graduate Research Assistant, CMOR Dept., Rice University (2020-Present)
+* Grader/TA, CMOR Dept., Rice University (2020-2024)
 * Quality Product Auditor, Pacific Southwest Container (2019-2020)
 * Undergraduate Grader, Dept. of Mathematics, UC Davis (2017-2018)
 * Orientation Leader, UC Davis (2017)
