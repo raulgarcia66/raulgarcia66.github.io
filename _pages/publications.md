@@ -30,7 +30,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 
 * **Optimal Timing of Organs-at-Risk-Sparing Adaptive Radiation Therapy for Head-and-Neck Cancer under Re-planning Resource Constraints** ([medRXiv](https://doi.org/10.1101/2024.04.01.24305163)) <br />
   Fatemeh Nosrat, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Abdallah S.R. Mohamed, Jacob G. Scott, James E. Bates, Brigid A. McDonald, Kareem A. Wahid, Mohamed A. Naser, Renjie He, Aysenur Karagoz, Amy C. Moreno, Lisanne V. van Dijk, Kristy K. Brock, Jolien Heukelom, Seyedmohammadhossein Hosseinian, Mehdi Hemmati, Andrew J. Schaefer, Clifton D. Fuller <br />
-  _To appear in Physics and Imaging in Radiation Oncology_
+  _To appear in Physics and Imaging in Radiation Oncology (phiRO)_
 
 * **Strategy Investments in Zero-Sum Games** ([Opt-Letters](https://link.springer.com/article/10.1007/s11590-024-02130-z)) <br />
   **Raul Garcia**, Seyedmohammadhossein Hosseinian, Mallesh M. Pai, Andrew J. Schaefer <br />
