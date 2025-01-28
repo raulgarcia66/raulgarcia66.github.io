@@ -28,7 +28,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
   Aysenur Karagoz, Mehdi Hemmati, Fatemeh Nosrat, Panayiotis Mavroidis, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Seyedmohammadhossein Hosseinian, Jacob G. Scott, James E. Bates, Heiko Enderling, Abdallah S. R. Mohamed, Kristy K. Brock, Andrew J. Schaefer, Clifton D. Fuller <br />
   _Submitted_
 
-* **Optimal Timing of Organs-at-Risk-Sparing Adaptive Radiation Therapy for Head-and-Neck Cancer under Re-planning Resource Constraints** ([medRXiv](https://doi.org/10.1101/2024.04.01.24305163)) <br />
+* **Optimal Timing of Organs-at-Risk-Sparing Adaptive Radiation Therapy for Head-and-Neck Cancer under Re-planning Resource Constraints** ([phiRO](https://www.sciencedirect.com/science/article/pii/S240563162500020X)) <br />
   Fatemeh Nosrat, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Abdallah S.R. Mohamed, Jacob G. Scott, James E. Bates, Brigid A. McDonald, Kareem A. Wahid, Mohamed A. Naser, Renjie He, Aysenur Karagoz, Amy C. Moreno, Lisanne V. van Dijk, Kristy K. Brock, Jolien Heukelom, Seyedmohammadhossein Hosseinian, Mehdi Hemmati, Andrew J. Schaefer, Clifton D. Fuller <br />
   _To appear in Physics and Imaging in Radiation Oncology (phiRO)_
 
