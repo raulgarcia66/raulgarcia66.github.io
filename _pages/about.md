@@ -41,7 +41,7 @@ Awards
 
 Personal
 =====
-Some of my hobbies/interests include soccer, music, playing guitar, watching films, and writing.
+Some of my hobbies/interests include soccer, music, guitar, films, and reading.
 
 My hometown is Modesto, CA.
 
