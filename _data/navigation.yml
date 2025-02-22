@@ -9,9 +9,6 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
 
-  - title: "Projects"
-    url: /projects/
-
   - title: "Presentations"
     url: /presentations/
     
@@ -20,6 +17,9 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "Projects"
+    url: /projects/
     
   - title: "CV"
     url: /cv/
