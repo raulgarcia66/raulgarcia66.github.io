@@ -56,7 +56,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 ## Working Papers
 
 * **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses**
-  R. Garcia, I. Toumazis, A. J. Schaefer
+  Raul Garcia, Iakovos Toumazis, Andrew J. Schaefer
 
 * **A Test Set for Mixed-Integer Linear Programs**
-  R. Garcia, M. Guo, A. J. Schaefer
+  Raul Garcia, Mike Guo, Andrew J. Schaefer
