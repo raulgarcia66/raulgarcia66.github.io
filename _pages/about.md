@@ -14,7 +14,7 @@ I am a PhD candidate at Rice University, working with [Andrew J. Schaefer](https
 
 Research Interests
 =====
-Optimization under uncertainty, POMDPs, bilevel optimization, operations research in healthcare
+Optimization under uncertainty, operations research for cancer detection and treatment, POMDPs, bilevel optimization
 
 Experience
 =====
@@ -26,13 +26,14 @@ Experience
 * Grader/TA, CMOR Dept., Rice University (2020-2024)
 * Quality Product Auditor, Pacific Southwest Container (2019-2020)
 * Undergraduate Grader, Dept. of Mathematics, UC Davis (2017-2018)
-* Orientation Leader, UC Davis (2017)
+<!-- * Orientation Leader, UC Davis (2017) -->
 * Undergraduate Teaching Assistant, Dept. of Mathematics, UC Davis (2016-2017)
 
 Awards
 =====
 * NIH Research Supplement to Promote Diversity in Health-Related Research Award (2022-2025)
-  * Sponsoring Agency: National Cancer Institute (NCI)
+  * "Diversity Supplement: SCH: Personalized Rescheduling of Adaptive Radiation Therapy for Head and Neck Cancer"
+  * National Cancer Institute (NCI)
 * GEM Fellowship - MIT Lincoln Laboratory (2022-2025)
 * NSF AGEP STRIDES Scholar (2022)
 * Research Mentoring Fellowship - Data to Knowledge Lab, Rice University (2022)

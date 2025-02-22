@@ -20,13 +20,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 
 <!-- Preprints from 2015 and after are also available on [arXiv](https://arxiv.org/a/chan_j_3.html). -->
 
-* **Cost-Effectiveness of Personalized Policies for Implementing Organ-at-Risk Sparing Adaptive Radiation Therapy in Head and Neck Cancer: A Markov Decision Process Approach** ([medRxiv](https://doi.org/10.1101/2024.11.05.24316767)) <br />
-  Seyedmohammadhossein Hosseinian, Daniel Suarez-Aguirre, Cem Dede, **Raul Garcia**, Lucas McCullum, Mehdi Hemmati, Aysenur Karagoz, Abdallah S. R. Mohamed, Stephen Y. Lai, Katherine A. Hutcheson, Amy C. Moreno, Kristy K. Brock, Fatemeh Nosrat, Clifton D. Fuller, Andrew J. Schaefer <br />
-  _Submitted_
-
-* **Variable-Interval Temporal Feathering to Optimize Organ-at-Risk Repair for Head and Neck Adaptive Radiotherapy** ([medRxiv](https://doi.org/10.1101/2024.11.07.24316948)) <br />
-  Aysenur Karagoz, Mehdi Hemmati, Fatemeh Nosrat, Panayiotis Mavroidis, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Seyedmohammadhossein Hosseinian, Jacob G. Scott, James E. Bates, Heiko Enderling, Abdallah S. R. Mohamed, Kristy K. Brock, Andrew J. Schaefer, Clifton D. Fuller <br />
-  _Submitted_
+## Published Papers
 
 * **Optimal Timing of Organs-at-Risk-Sparing Adaptive Radiation Therapy for Head-and-Neck Cancer under Re-planning Resource Constraints** ([phiRO](https://www.sciencedirect.com/science/article/pii/S240563162500020X)) <br />
   Fatemeh Nosrat, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Abdallah S.R. Mohamed, Jacob G. Scott, James E. Bates, Brigid A. McDonald, Kareem A. Wahid, Mohamed A. Naser, Renjie He, Aysenur Karagoz, Amy C. Moreno, Lisanne V. van Dijk, Kristy K. Brock, Jolien Heukelom, Seyedmohammadhossein Hosseinian, Mehdi Hemmati, Andrew J. Schaefer, Clifton D. Fuller <br />
@@ -47,3 +41,22 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 * **Deep Object Detection for Waterbird Monitoring using Aerial Imagery** ([IEEE](https://ieeexplore.ieee.org/document/10069986)) ([arXiv](https://arxiv.org/abs/2210.04868))  <br />
   Krish Kabra, Alexander Xiong, Wenbin Li, Minxuan Luo, William Lu, Tianjiao Yu, Jiahui Yu, Dhananjay Singh Vijay, **Raul Garcia**, Maojie Tang, Hank Arnold, Anna Vallery, Richard Gibbons, Arko Barman  <br />
   _2022 21st IEEE International Conference on Machine Learning and Applications (ICMLA)_
+
+
+## Submitted Papers
+
+* **Cost-Effectiveness of Personalized Policies for Implementing Organ-at-Risk Sparing Adaptive Radiation Therapy in Head and Neck Cancer: A Markov Decision Process Approach** ([medRxiv](https://doi.org/10.1101/2024.11.05.24316767)) <br />
+  Seyedmohammadhossein Hosseinian, Daniel Suarez-Aguirre, Cem Dede, **Raul Garcia**, Lucas McCullum, Mehdi Hemmati, Aysenur Karagoz, Abdallah S. R. Mohamed, Stephen Y. Lai, Katherine A. Hutcheson, Amy C. Moreno, Kristy K. Brock, Fatemeh Nosrat, Clifton D. Fuller, Andrew J. Schaefer <br />
+  <!-- _Submitted_ -->
+
+* **Variable-Interval Temporal Feathering to Optimize Organ-at-Risk Repair for Head and Neck Adaptive Radiotherapy** ([medRxiv](https://doi.org/10.1101/2024.11.07.24316948)) <br />
+  Aysenur Karagoz, Mehdi Hemmati, Fatemeh Nosrat, Panayiotis Mavroidis, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Seyedmohammadhossein Hosseinian, Jacob G. Scott, James E. Bates, Heiko Enderling, Abdallah S. R. Mohamed, Kristy K. Brock, Andrew J. Schaefer, Clifton D. Fuller <br />
+  <!-- _Submitted_ -->
+
+## Working Papers
+
+* **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses**
+  R. Garcia, I. Toumazis, A. J. Schaefer
+
+* **A Test Set for Mixed-Integer Linear Programs**
+  R. Garcia, M. Guo, A. J. Schaefer

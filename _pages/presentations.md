@@ -16,7 +16,7 @@ author_profile: true
   * Kavraki Lab - May 2022, Rice University, Houston, TX
 
 * **Leveraging machine learning to develop collision avoidance systems for manned and unmanned aircraft**
-  * TAPIA Conference - Sep 2022, Washington, D.C.
+  * CMD-IT/ACM Richard Tapia Celebration of Diversity in Computing Conference - Sep 2022, Washington, D.C.
 
 * **Deep learning for precision waterbird monitoring**
   * Rice Data to Science (D2K) Lab Showcase 2022 (poster) - May 2022, Rice University, Houston, TX
