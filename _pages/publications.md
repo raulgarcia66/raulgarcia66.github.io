@@ -22,11 +22,11 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 
 ## Working Papers
 
-* **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses**
-  * **Raul Garcia**, Iakovos Toumazis, Andrew J. Schaefer
+* **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses** <br />
+  **Raul Garcia**, Iakovos Toumazis, Andrew J. Schaefer
 
-* **A Finite Test Set for Mixed-Integer Linear Programs**
-  * **Raul Garcia**, Mike Guo, Andrew J. Schaefer
+* **A Finite Test Set for Mixed-Integer Linear Programs** <br />
+  **Raul Garcia**, Mike Guo, Andrew J. Schaefer
 
 
 ## Submitted Papers
