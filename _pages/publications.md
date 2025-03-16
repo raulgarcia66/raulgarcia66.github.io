@@ -31,13 +31,13 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 
 ## Submitted Papers
 
-* **Cost-Effectiveness of Personalized Policies for Implementing Organ-at-Risk Sparing Adaptive Radiation Therapy in Head and Neck Cancer: A Markov Decision Process Approach** ([medRxiv](https://doi.org/10.1101/2024.11.05.24316767)) <br />
-  Seyedmohammadhossein Hosseinian, Daniel Suarez-Aguirre, Cem Dede, **Raul Garcia**, Lucas McCullum, Mehdi Hemmati, Aysenur Karagoz, Abdallah S. R. Mohamed, Stephen Y. Lai, Katherine A. Hutcheson, Amy C. Moreno, Kristy K. Brock, Fatemeh Nosrat, Clifton D. Fuller, Andrew J. Schaefer <br />
-  Major Revision at _International Journal of Radiation Oncology*Biology*Physics_
-
 * **Variable-Interval Temporal Feathering to Optimize Organ-at-Risk Repair for Head and Neck Adaptive Radiotherapy** ([medRxiv](https://doi.org/10.1101/2024.11.07.24316948)) <br />
   Aysenur Karagoz, Mehdi Hemmati, Fatemeh Nosrat, Panayiotis Mavroidis, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Seyedmohammadhossein Hosseinian, Jacob G. Scott, James E. Bates, Heiko Enderling, Abdallah S. R. Mohamed, Kristy K. Brock, Andrew J. Schaefer, Clifton D. Fuller <br />
-  Submitted to _Physics and Imaging in Radiation Oncology (phiRO)_
+  Major Revision at _International Journal of Radiation Oncology*Biology*Physics_
+
+* **Cost-Effectiveness of Personalized Policies for Implementing Organ-at-Risk Sparing Adaptive Radiation Therapy in Head and Neck Cancer: A Markov Decision Process Approach** ([medRxiv](https://doi.org/10.1101/2024.11.05.24316767)) <br />
+  Seyedmohammadhossein Hosseinian, Daniel Suarez-Aguirre, Cem Dede, **Raul Garcia**, Lucas McCullum, Mehdi Hemmati, Aysenur Karagoz, Abdallah S. R. Mohamed, Stephen Y. Lai, Katherine A. Hutcheson, Amy C. Moreno, Kristy K. Brock, Fatemeh Nosrat, Clifton D. Fuller, Andrew J. Schaefer <br />
+  Minor Revision at _Physics and Imaging in Radiation Oncology (phiRO)_
 
 
 ## Published Papers
