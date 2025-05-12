@@ -26,7 +26,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
   **Raul Garcia**, Iakovos Toumazis, Andrew J. Schaefer
 
 * **A Finite Test Set for Mixed-Integer Linear Programs** <br />
-  **Raul Garcia**, Mike Guo, Andrew J. Schaefer
+  **Raul Garcia**, Mike Guo\*, Andrew J. Schaefer (\* undergraduate junior)
 
 
 ## Submitted Papers
@@ -35,14 +35,13 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
   Aysenur Karagoz, Mehdi Hemmati, Fatemeh Nosrat, Panayiotis Mavroidis, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Seyedmohammadhossein Hosseinian, Jacob G. Scott, James E. Bates, Heiko Enderling, Abdallah S. R. Mohamed, Kristy K. Brock, Andrew J. Schaefer, Clifton D. Fuller <br />
   Major Revision at _International Journal of Radiation Oncology*Biology*Physics_
 
-* **Cost-Effectiveness of Personalized Policies for Implementing Organ-at-Risk Sparing Adaptive Radiation Therapy in Head and Neck Cancer: A Markov Decision Process Approach** ([medRxiv](https://doi.org/10.1101/2024.11.05.24316767)) <br />
-  Seyedmohammadhossein Hosseinian, Daniel Suarez-Aguirre, Cem Dede, **Raul Garcia**, Lucas McCullum, Mehdi Hemmati, Aysenur Karagoz, Abdallah S. R. Mohamed, Stephen Y. Lai, Katherine A. Hutcheson, Amy C. Moreno, Kristy K. Brock, Fatemeh Nosrat, Clifton D. Fuller, Andrew J. Schaefer <br />
-  Minor Revision at _Physics and Imaging in Radiation Oncology (phiRO)_
-
-
 ## Published Papers
 
-* **Optimal Timing of Organs-at-Risk-Sparing Adaptive Radiation Therapy for Head-and-Neck Cancer under Re-planning Resource Constraints** ([article](https://www.sciencedirect.com/science/article/pii/S240563162500020X)) <br />
+* **Cost-Effectiveness of Personalized Policies for Implementing Organ-at-Risk Sparing Adaptive Radiation Therapy in Head and Neck Cancer: A Markov Decision Process Approach** ([article](https://doi.org/10.1016/j.phro.2025.100772)) <br />
+  Seyedmohammadhossein Hosseinian, Daniel Suarez-Aguirre, Cem Dede, **Raul Garcia**, Lucas McCullum, Mehdi Hemmati, Aysenur Karagoz, Abdallah S. R. Mohamed, Stephen Y. Lai, Katherine A. Hutcheson, Amy C. Moreno, Kristy K. Brock, Fatemeh Nosrat, Clifton D. Fuller, Andrew J. Schaefer <br />
+  _Physics and Imaging in Radiation Oncology (phiRO)_
+
+* **Optimal Timing of Organs-at-Risk-Sparing Adaptive Radiation Therapy for Head-and-Neck Cancer under Re-planning Resource Constraints** ([article](https://doi.org/10.1016/j.phro.2025.100715)) <br />
   Fatemeh Nosrat, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Abdallah S.R. Mohamed, Jacob G. Scott, James E. Bates, Brigid A. McDonald, Kareem A. Wahid, Mohamed A. Naser, Renjie He, Aysenur Karagoz, Amy C. Moreno, Lisanne V. van Dijk, Kristy K. Brock, Jolien Heukelom, Seyedmohammadhossein Hosseinian, Mehdi Hemmati, Andrew J. Schaefer, Clifton D. Fuller <br />
   _Physics and Imaging in Radiation Oncology (phiRO)_
 
