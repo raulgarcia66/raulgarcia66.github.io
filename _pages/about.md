@@ -29,8 +29,6 @@ Experience
 <!-- * Orientation Leader, UC Davis (2017) -->
 * Learning Assistant (co-Teaching Assistant), Dept. of Mathematics, UC Davis (2016-2017)
 
-\cventry{2025--2026}{Future Faculty Fellowship}{School of Engineering and Computing}{Rice University}{}{Selected for 2025-2026 cohort of Level 3 \href{https://engineering.rice.edu/academics/future-faculty-fellows}{Future Faculty Fellows}}
-
 Awards
 =====
 * Future Faculty Fellowship - School of Engineering and Computing, Rice University (2025-2026)
