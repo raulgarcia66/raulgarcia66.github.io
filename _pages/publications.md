@@ -26,8 +26,10 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
   **Raul Garcia**, Iakovos Toumazis, Andrew J. Schaefer
 
 * **A Finite Test Set for Mixed-Integer Linear Programs** <br />
-  **Raul Garcia**, Mike Guo\*, Andrew J. Schaefer (\* undergraduate junior)
+  **Raul Garcia**, Mike Guo\*, Andrew J. Schaefer (\* undergraduate junior mentee)
 
+* **QALY-maximizing Personalized Surveillance Imaging for Head-and-Neck Cancer Patients Treated with Definitive Radiotherapy**
+  Lucas McCullum, **Raul Garcia**, et al.
 
 ## Submitted Papers
 

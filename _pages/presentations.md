@@ -5,6 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
+* **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses**
+  * International Conference on Stochastic Programming (ICSP) - Jul 2025, Champs-sur-Marne, France
+
 * **Strategy Investments in Zero-Sum Games**
   * International Symposium on Mathematical Programming (ISMP) - Jul 2024, Montreal, Canada
   * INFORMS Optimization Society Conference - Mar 2024, Houston, TX
