@@ -28,7 +28,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 * **A Finite Test Set for Mixed-Integer Linear Programs** <br />
   **Raul Garcia**, Mike Guo\*, Andrew J. Schaefer (\* undergraduate junior mentee)
 
-* **QALY-maximizing Personalized Surveillance Imaging for Head-and-Neck Cancer Patients Treated with Definitive Radiotherapy**
+* **QALY-maximizing Personalized Surveillance Imaging for Head-and-Neck Cancer Patients Treated with Definitive Radiotherapy** <br />
   Lucas McCullum, **Raul Garcia**, et al.
 
 ## Submitted Papers
