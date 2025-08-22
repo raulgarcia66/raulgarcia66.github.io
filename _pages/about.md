@@ -14,7 +14,7 @@ I am a PhD candidate at Rice University, working with [Dr. Andrew J. Schaefer](h
 
 Research Interests
 =====
-Optimization under uncertainty, cancer detection and treatment, mixed-integer programming, partially observable Markov decision processes, bilevel optimization
+Optimization under uncertainty, cancer detection and treatment, mixed-integer programming, partially observable Markov decision processes, decision-dependent uncertainty, bilevel optimization
 
 Experience
 =====
@@ -27,7 +27,7 @@ Experience
 * Quality Product Auditor, Pacific Southwest Container (2019-2020)
 * Undergraduate Grader, Dept. of Mathematics, UC Davis (2017-2018)
 <!-- * Orientation Leader, UC Davis (2017) -->
-* Learning Assistant (co-Teaching Assistant), Dept. of Mathematics, UC Davis (2016-2017)
+* Learning Assistant (Co-Teaching Assistant), Dept. of Mathematics, UC Davis (2016-2017)
 
 Awards
 =====
@@ -44,7 +44,7 @@ Awards
 
 Personal
 =====
-Some of my hobbies/interests include soccer, music, guitar, films, and reading.
+Some of my hobbies/interests include soccer, music, playing guitar, cinema, and reading.
 
 My hometown is Modesto, CA.
 

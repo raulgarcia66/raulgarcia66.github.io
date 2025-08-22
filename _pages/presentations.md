@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses**
-  * International Conference on Stochastic Programming (ICSP) - Jul 2025, Champs-sur-Marne, France
+  * International Conference on Stochastic Programming (ICSP) - Jul 2025, Champs-sur-Marne (Paris), France
 
 * **Strategy Investments in Zero-Sum Games**
   * International Symposium on Mathematical Programming (ISMP) - Jul 2024, Montreal, Canada
@@ -23,6 +23,7 @@ author_profile: true
 
 * **Battery Replacement Prediction Based on Survival Analysis**
   * Rice Data to Science (D2K) Lab Showcase Fall 2022 (group poster) - Nov 2022, Rice University, Houston, TX
+  * Mentor of team that received 1st place at [Data to Knowledge Lab Fall 2022 Showcase](https://d2k.rice.edu/news/battery-replacement-model-epilepsy-device-wins-d2k-fall-2022-showcase)
 
 * **Deep Learning for Precision Waterbird Monitoring**
   * Rice Data to Science (D2K) Lab Showcase Spring 2022 (group poster) - May 2022, Rice University, Houston, TX

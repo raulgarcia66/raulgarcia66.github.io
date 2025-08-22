@@ -22,20 +22,28 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 
 ## Working Papers
 
+\* denotes mentored undergraduate students
+
 * **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses** <br />
   **Raul Garcia**, Iakovos Toumazis, Andrew J. Schaefer
 
 * **A Finite Test Set for Mixed-Integer Linear Programs** <br />
-  **Raul Garcia**, Mike Guo\*, Andrew J. Schaefer (\* undergraduate junior mentee)
+  **Raul Garcia**, Mike Guo\*, Andrew J. Schaefer
 
 * **QALY-maximizing Personalized Surveillance Imaging for Head-and-Neck Cancer Patients Treated with Definitive Radiotherapy** <br />
-  Lucas B. McCullum, **Raul Garcia**, et al.
+  Lucas B. McCullum, **Raul Garcia**, Adarsh Gadepalli\*, Devin Abraham\*, Peter Stern\*, Fatemeh Nosrat, Avhan Misra, Cem Dede, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
+
+* **Threshold-Triggered Dose Adaptation in Radiotherapy: A Decision-Theoretic Analysis Balancing Tumor Control and Normal Tissue Risk** <br />
+  Avhan Misra, Cem Dede, Vikram Shah, Shruti Patankar, Holt Klineberg, **Raul Garcia**, Lucas B. McCullum, Fatemeh Nosrat, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
+
+* **Optimal Timing for Insertion and Removal of Feeding Tubes to Minimize DIGEST Scores in Head and Neck Cancer Patients Based on Weight and Oral Intake Status** <br />
+  Fatemeh Nosrat, Imaad Hussain, Burton Alexander, Beatrice Manduchi, Avhan Misra, **Raul Garcia**, Lucas B. McCullum, Cem Dede, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
 
 ## Submitted Papers
 
 * **Variable-Interval Temporal Feathering to Optimize Organ-at-Risk Repair for Head and Neck Adaptive Radiotherapy** ([medRxiv](https://doi.org/10.1101/2024.11.07.24316948)) <br />
   Aysenur Karagoz, Mehdi Hemmati, Fatemeh Nosrat, Panayiotis Mavroidis, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Seyedmohammadhossein Hosseinian, Jacob G. Scott, James E. Bates, Heiko Enderling, Abdallah S. R. Mohamed, Kristy K. Brock, Andrew J. Schaefer, Clifton D. Fuller <br />
-  Major Revision at _International Journal of Radiation Oncology*Biology*Physics_
+  Submitted to _Physics and Imaging in Radiation Oncology (phiRO)_
 
 ## Published Papers
 
