@@ -22,16 +22,16 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 
 ## Working Papers
 
-\* denotes mentored undergraduate students
+\*\* denotes mentored undergraduate students
 
 * **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses** <br />
-  **Raul Garcia**, Iakovos Toumazis, Andrew J. Schaefer
+  **Raul Garcia**, Andrew J. Schaefer, Iakovos Toumazis
 
-* **A Finite Test Set for Mixed-Integer Linear Programs** <br />
-  **Raul Garcia**, Mike Guo\*, Andrew J. Schaefer
+* **A Test Set for Mixed-Integer Programs** <br />
+  **Raul Garcia**, Mike Guo\*\*, Andrew J. Schaefer
 
-* **QALY-maximizing Personalized Surveillance Imaging for Head-and-Neck Cancer Patients Treated with Definitive Radiotherapy** <br />
-  Lucas B. McCullum, **Raul Garcia**, Adarsh Gadepalli\*, Devin Abraham\*, Peter Stern\*, Fatemeh Nosrat, Avhan Misra, Cem Dede, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
+* **QALY-Maximizing Personalized Surveillance Imaging for Head-and-Neck Cancer Patients Treated with Definitive Radiotherapy** <br />
+  Lucas B. McCullum, **Raul Garcia**, Adarsh Gadepalli\*\*, Devin Abraham\*\*, Peter Stern\*\*, Fatemeh Nosrat, Avhan Misra, Cem Dede, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
 
 * **Threshold-Triggered Dose Adaptation in Radiotherapy: A Decision-Theoretic Analysis Balancing Tumor Control and Normal Tissue Risk** <br />
   Avhan Misra, Cem Dede, Vikram Shah, Shruti Patankar, Holt Klineberg, **Raul Garcia**, Lucas B. McCullum, Fatemeh Nosrat, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller

@@ -5,6 +5,9 @@ permalink: /presentations/
 author_profile: true
 ---
 
+* **QALY-Maximizing Personalized Surveillance Imaging for Head-and-Neck Cancer Patients Treated with Definitive Radiotherapy**
+  * AI in Health Conference - Operations Research in Cancer Care Workshop - Sep 2025, Ken Kennedy Institute at Rice University, Houston, TX
+
 * **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses**
   * International Conference on Stochastic Programming (ICSP) - Jul 2025, Champs-sur-Marne (Paris), France
 
