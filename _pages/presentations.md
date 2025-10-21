@@ -5,11 +5,12 @@ permalink: /presentations/
 author_profile: true
 ---
 
+* **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses**
+  * INFORMS Annual Meeting - Oct 2025, Atlanta, GA
+  * International Conference on Stochastic Programming (ICSP) - Jul 2025, Champs-sur-Marne (Paris), France
+
 * **QALY-Maximizing Personalized Surveillance Imaging for Head-and-Neck Cancer Patients Treated with Definitive Radiotherapy**
   * AI in Health Conference - Operations Research in Cancer Care Workshop - Sep 2025, Ken Kennedy Institute at Rice University, Houston, TX
-
-* **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses**
-  * International Conference on Stochastic Programming (ICSP) - Jul 2025, Champs-sur-Marne (Paris), France
 
 * **Strategy Investments in Zero-Sum Games**
   * International Symposium on Mathematical Programming (ISMP) - Jul 2024, Montreal, Canada
@@ -20,7 +21,7 @@ author_profile: true
 
 * **A Combinatorial Disjunctive Constraint Approach to Optimal Path Planning**
   * IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2023 - Oct 2023, Detroit, MI
-  * INFORMS Annual Conference 2022 - Oct 2022, Indianapolis, IN
+  * INFORMS Annual Meeting - Oct 2022, Indianapolis, IN
   * MIP Workshop 2022 (poster) - May 2022, Rutgers University, New Brunswick, NJ
   * Kavraki Lab - May 2022, Rice University, Houston, TX
 
