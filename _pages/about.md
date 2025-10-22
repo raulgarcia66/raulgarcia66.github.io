@@ -14,7 +14,7 @@ I am a PhD candidate at Rice University, working with [Dr. Andrew J. Schaefer](h
 
 Research Interests
 =====
-Optimization under uncertainty, cancer detection and treatment, mixed-integer programming, partially observable Markov decision processes, decision-dependent uncertainty, bilevel optimization
+Optimization under uncertainty, healthcare, mixed-integer programming, partially observable Markov decision processes, decision-dependent uncertainty, bilevel optimization
 
 Experience
 =====
