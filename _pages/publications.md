@@ -27,17 +27,17 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 * **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses** <br />
   **Raul Garcia**, Andrew J. Schaefer, Iakovos Toumazis
 
-* **A Test Set for Mixed-Integer Programs** <br />
+* **A Finite Test Set for Mixed-Integer Programs** <br />
   **Raul Garcia**, Mike Guo\*\*, Andrew J. Schaefer
 
 * **QALY-Maximizing Personalized Surveillance Imaging for Head-and-Neck Cancer Patients Treated with Definitive Radiotherapy** <br />
   Lucas B. McCullum, **Raul Garcia**, Adarsh Gadepalli\*\*, Devin Abraham\*\*, Peter Stern\*\*, Fatemeh Nosrat, Avhan Misra, Cem Dede, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
 
 * **Threshold-Triggered Dose Adaptation in Radiotherapy: A Decision-Theoretic Analysis Balancing Tumor Control and Normal Tissue Risk** <br />
-  Avhan Misra, Cem Dede, Vikram Shah, Shruti Patankar, Holt Klineberg, **Raul Garcia**, Lucas B. McCullum, Fatemeh Nosrat, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
+  Avhan Misra, Cem Dede, Vikram Shah\*\*, Shruti Patankar\*\*, Holt Klineberg\*\*, **Raul Garcia**, Lucas B. McCullum, Fatemeh Nosrat, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
 
 * **Optimal Timing for Insertion and Removal of Feeding Tubes to Minimize DIGEST Scores in Head and Neck Cancer Patients Based on Weight and Oral Intake Status** <br />
-  Fatemeh Nosrat, Imaad Hussain, Burton Alexander, Beatrice Manduchi, Avhan Misra, **Raul Garcia**, Lucas B. McCullum, Cem Dede, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
+  Fatemeh Nosrat, Imaad Hussain\*\*, Burton Alexander\*\*, Beatrice Manduchi, Avhan Misra, **Raul Garcia**, Lucas B. McCullum, Cem Dede, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
 
 ## Submitted Papers
 
