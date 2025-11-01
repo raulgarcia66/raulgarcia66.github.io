@@ -37,7 +37,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
   Avhan Misra, Cem Dede, Vikram Shah\*\*, Shruti Patankar\*\*, Holt Klineberg\*\*, **Raul Garcia**, Lucas B. McCullum, Fatemeh Nosrat, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
 
 * **Optimal Timing for Insertion and Removal of Feeding Tubes to Minimize DIGEST Scores in Head and Neck Cancer Patients Based on Weight and Oral Intake Status** <br />
-  Fatemeh Nosrat, Imaad Hussain\*\*, Burton Alexander\*\*, Beatrice Manduchi, Avhan Misra, **Raul Garcia**, Lucas B. McCullum, Cem Dede, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
+  Fatemeh Nosrat, Imaad Hussain\*\*, Burton Alexander\*\*, Lauren Dumin\*\*, Beatrice Manduchi, Avhan Misra, **Raul Garcia**, Lucas B. McCullum, Cem Dede, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
 
 ## Submitted Papers
 
