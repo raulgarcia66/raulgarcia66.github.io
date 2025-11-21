@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Raul Garcia"
-  avatar           : "Headshot 3.jpg" # "Profile Pic.jpg"
+  avatar           : "Profile Pic.jpg" # "Headshot 3.jpg"
   bio              : "PhD Candidate in Computational Applied Mathematics & Operations Research at Rice University"
   location         : "Houston, TX"
   employer         :
