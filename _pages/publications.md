@@ -24,7 +24,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 
 \*\* denotes mentored undergraduate students
 
-* **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses** <br />
+* **Population-Based Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses** <br />
   **Raul Garcia**, Andrew J. Schaefer, Iakovos Toumazis
 
 * **A Finite Test Set for Mixed-Integer Programs** <br />
@@ -39,13 +39,13 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 * **Optimal Timing for Insertion and Removal of Feeding Tubes to Minimize DIGEST Scores in Head and Neck Cancer Patients Based on Weight and Oral Intake Status** <br />
   Fatemeh Nosrat, Imaad Hussain\*\*, Burton Alexander\*\*, Lauren Dumin\*\*, Beatrice Manduchi, Avhan Misra, **Raul Garcia**, Lucas B. McCullum, Cem Dede, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller
 
-## Submitted Papers
-
-* **Variable-Interval Temporal Feathering to Optimize Organ-at-Risk Repair for Head and Neck Adaptive Radiotherapy** ([medRxiv](https://doi.org/10.1101/2024.11.07.24316948)) <br />
-  Aysenur Karagoz, Mehdi Hemmati, Fatemeh Nosrat, Panayiotis Mavroidis, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Seyedmohammadhossein Hosseinian, Jacob G. Scott, James E. Bates, Heiko Enderling, Abdallah S. R. Mohamed, Kristy K. Brock, Andrew J. Schaefer, Clifton D. Fuller <br />
-  Submitted to _Physics and Imaging in Radiation Oncology (phiRO)_
+<!-- ## Submitted Papers -->
 
 ## Published Papers
+
+* **Variable-Interval Temporal Feathering to Optimize Organs-at-Risk Repair for Head and Neck Adaptive Radiotherapy** ([article](https://www.sciencedirect.com/science/article/pii/S2405631626001260)) <br />
+  Aysenur Karagoz, Mehdi Hemmati, Fatemeh Nosrat, Panayiotis Mavroidis, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Seyedmohammadhossein Hosseinian, Jacob G. Scott, James E. Bates, Heiko Enderling, Abdallah S. R. Mohamed, Kristy K. Brock, Andrew J. Schaefer, Clifton D. Fuller <br />
+  _Physics and Imaging in Radiation Oncology (phiRO)_
 
 * **Cost-Effectiveness of Personalized Policies for Implementing Organ-at-Risk Sparing Adaptive Radiation Therapy in Head and Neck Cancer: A Markov Decision Process Approach** ([article](https://doi.org/10.1016/j.phro.2025.100772)) <br />
   Seyedmohammadhossein Hosseinian, Daniel Suarez-Aguirre, Cem Dede, **Raul Garcia**, Lucas McCullum, Mehdi Hemmati, Aysenur Karagoz, Abdallah S. R. Mohamed, Stephen Y. Lai, Katherine A. Hutcheson, Amy C. Moreno, Kristy K. Brock, Fatemeh Nosrat, Clifton D. Fuller, Andrew J. Schaefer <br />

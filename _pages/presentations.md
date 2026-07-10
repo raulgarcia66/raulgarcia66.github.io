@@ -5,7 +5,7 @@ permalink: /presentations/
 author_profile: true
 ---
 
-* **Universal Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses**
+* **Population-Based Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses**
   * INFORMS Annual Meeting - Oct 2025, Atlanta, GA
   * International Conference on Stochastic Programming (ICSP) - Jul 2025, Champs-sur-Marne (Paris), France
 

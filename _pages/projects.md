@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Projects"
+title: "Misc Projects"
 permalink: /projects/
 author_profile: true
 ---
@@ -15,16 +15,17 @@ author_profile: true
     * Contributed visualization tool for analysis of policy evolution through the course of the value iteration algorithm
   * C++, Julia, MATLAB
 
-* **ClutteredEnvPathOpt.jl** [(repo)](https://github.com/raulgarcia66/ClutteredEnvPathOpt.jl)
+
+<!-- * **ClutteredEnvPathOpt.jl** [(repo)](https://github.com/raulgarcia66/ClutteredEnvPathOpt.jl)
   * Rice University - with Illya V. Hicks, Joey Huchette and Miles Olson
-  * Package for solving optimal path planning problems in cluttered environments for robots and drones
-    <!-- * Formulated as a mixed-integer quadratically-constrained quadratic program (MIQCQP) with disjunctive contraints for assigning footsteps or waypoints to obstacle-free regions -->
-    * Implemented the independent branching scheme to formulate obstacle avoidance disjunctive constraints, including an algorithm for obtaining the necessary biclique covers on a special class of graphs
-    * Includes infrastructure for creating obstacles, generating obstacle-free regions, and constructing the associated graphs
-    <!-- * Disjunctive constraint formulation approaches: -->
-      <!-- * Independent branching scheme -->
-      <!-- * Big-M -->
-  * Julia
+  * Package for solving optimal path planning problems in cluttered environments for robots and drones -->
+<!-- * Formulated as a mixed-integer quadratically-constrained quadratic program (MIQCQP) with disjunctive contraints for assigning footsteps or waypoints to obstacle-free regions -->
+<!-- * Implemented the independent branching scheme to formulate obstacle avoidance disjunctive constraints, including an algorithm for obtaining the necessary biclique covers on a special class of graphs
+* Includes infrastructure for creating obstacles, generating obstacle-free regions, and constructing the associated graphs -->
+<!-- * Disjunctive constraint formulation approaches: -->
+<!-- * Independent branching scheme -->
+<!-- * Big-M -->
+<!-- * Julia -->
 
 * **Audubon_F21** [(repo)](https://github.com/RiceD2KLab/Audubon_F21/tree/SP22)
   * Rice University - Data to Science (D2K) Lab
