@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Population-Based Lung Cancer Screening Guidelines Under Heterogeneous Patient Responses**
-  * INFORMS Annual Meeting - Oct 2025, Atlanta, GA
+  * INFORMS Annual Meeting - Nov 2026, San Francisco, CA; Oct 2025, Atlanta, GA
   * International Conference on Stochastic Programming (ICSP) - Jul 2025, Champs-sur-Marne (Paris), France
 
 * **QALY-Maximizing Personalized Surveillance Imaging for Head-and-Neck Cancer Patients Treated with Definitive Radiotherapy**
