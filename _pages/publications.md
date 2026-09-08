@@ -43,7 +43,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 
 ## Published Papers
 
-* **Variable-Interval Temporal Feathering to Optimize Organs-at-Risk Repair for Head and Neck Adaptive Radiotherapy** ([article](https://www.sciencedirect.com/science/article/pii/S2405631626001260)) <br />
+* **Variable-Interval Temporal Feathering to Optimize Organs-at-Risk Repair for Head and Neck Adaptive Radiotherapy** ([article](https://doi.org/10.1016/j.phro.2026.101026)) <br />
   Aysenur Karagoz, Mehdi Hemmati, Fatemeh Nosrat, Panayiotis Mavroidis, Cem Dede, Lucas B. McCullum, **Raul Garcia**, Seyedmohammadhossein Hosseinian, Jacob G. Scott, James E. Bates, Heiko Enderling, Abdallah S. R. Mohamed, Kristy K. Brock, Andrew J. Schaefer, Clifton D. Fuller <br />
   _Physics and Imaging in Radiation Oncology (phiRO)_
 
