@@ -19,9 +19,10 @@ Optimization under uncertainty, healthcare, mixed-integer programming, partially
 Experience
 =====
 * Visiting Graduate Student Researcher, Department of Radiation Oncology & Department of Health Services Research, University of Texas MD Anderson Cancer Center (2023-2026)
+* Graduate Research Assistant, CMOR Dept., Rice University (2021-2026)
 * Research Mentor, Data to Knowledge Lab, Rice University (2022)
 * Research Intern, MIT Lincoln Laboratory - Group 42 (2022)
-* Graduate Research Assistant, CMOR Dept., Rice University (2021-Present)
+<!-- * Graduate Research Assistant, CMOR Dept., Rice University (2021-2026) -->
 * Instructor, Tapia STEM Camp, Rice University (2021)
 * Grader/TA, CMOR Dept., Rice University (2020-2024)
 * Quality Product Auditor, Pacific Southwest Container (2019-2020)
