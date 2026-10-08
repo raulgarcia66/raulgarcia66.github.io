@@ -37,7 +37,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
   Avhan Misra, Cem Dede, Vikram Shah\*\*, Shruti Patankar\*\*, Holt Klineberg\*\*, **Raul Garcia**, Lucas B. McCullum, Fatemeh Nosrat, Laia Humbert-Vidan, Andrew J. Schaefer, Clifton D. Fuller -->
 
 * **Optimizing Feeding Tube Decision Making in Oropharyngeal Cancer Radiotherapy: A Markov Decision Model** <br />
-  Imaad Hussain\*\*, Avhan Misra, Su Li, Fatemeh Nosrat, Alexander Burton\*\*, Raul Garcia, Laia Humbert-Vidan, Amy C. Moreno, Kate A. Hutcheson, Clifton D. Fuller, Andrew J. Schaefer, Beatrice Manduchi
+  Imaad Hussain\*\*, Avhan Misra, Su Li, Fatemeh Nosrat, Alexander Burton\*\*, **Raul Garcia**, Laia Humbert-Vidan, Amy C. Moreno, Kate A. Hutcheson, Clifton D. Fuller, Andrew J. Schaefer, Beatrice Manduchi
 
 <!-- ## Submitted Papers -->
 
