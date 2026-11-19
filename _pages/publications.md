@@ -40,7 +40,7 @@ My [Google Scholar page](https://scholar.google.com/citations?user=zEP4GUoAAAAJ&
 ## Submitted Papers
 
 * **Dynamic Feeding Tube Decision Making in Oropharyngeal Cancer Radiotherapy: A Markov Decision Model** <br />
-  Imaad Hussain\*\*, Avhan Misra, Su Li, Alexander Burton\*\*, **Raul Garcia**, Amy C. Moreno, Katherine A. Hutcheson, Clifton D. Fuller, Andrew J. Schaefer, Laia Humbert-Vidan, Fatemeh Nosrat, Beatrice Manduchi
+  Imaad Hussain\*\*, Avhan Misra, Su Li, Alexander Burton\*\*, **Raul Garcia**, Amy C. Moreno, Katherine A. Hutcheson, Clifton D. Fuller, Andrew J. Schaefer, Laia Humbert-Vidan, Fatemeh Nosrat, Beatrice Manduchi <br />
   Submitted to _The Laryngoscope_
 
 ## Published Papers
