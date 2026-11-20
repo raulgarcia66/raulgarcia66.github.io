@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Raul Garcia"
-description              : &description "PhD Candidate at Rice University"
+description              : &description "Postdoctoral Fellow at UT MD Anderson Cancer Center"
 url                      : https://raulgarcia66.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "raulgarcia66.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Raul Garcia"
   avatar           : "Profile Pic.jpg" # "Headshot 3.jpg"
-  bio              : "PhD Candidate in Computational Applied Mathematics & Operations Research at Rice University"
+  bio              : "Postdoctoral Fellow at UT MD Anderson Cancer Center"
   location         : "Houston, TX"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=zEP4GUoAAAAJ&hl=en"
-  email            : rjgarcia@rice.edu
+  email            : rgarcia20@mdanderson.org
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
